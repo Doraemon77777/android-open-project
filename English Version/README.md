@@ -269,7 +269,7 @@ Android Satellite Menu.
 Project Address: https://github.com/siyamed/android-satellite-menu  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/satellite-menu-demo.apk?raw=true  
 Similar App: Path  
-   
+    
 1. radial-menu-widget  
 A radial (pie) menu for Android.  
 Project Address: https://code.google.com/p/radial-menu-widget/  
